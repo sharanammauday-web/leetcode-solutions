@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [3099-harshad-number](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/3099-harshad-number) |
 <!---LeetCode Topics End-->
