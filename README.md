@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -32,10 +33,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0189-rotate-array) |
 | [3099-harshad-number](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/3099-harshad-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
