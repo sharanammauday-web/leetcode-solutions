@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0682-baseball-game](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
