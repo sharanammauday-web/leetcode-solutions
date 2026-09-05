@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0268-missing-number) |
 | [3099-harshad-number](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/3099-harshad-number) |
 ## Binary Search
 |  |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0704-binary-search) |
@@ -269,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sharanammauday-web/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
